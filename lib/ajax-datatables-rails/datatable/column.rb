@@ -60,7 +60,7 @@ module AjaxDatatablesRails
       private
 
       TYPE_CAST_DEFAULT   = 'VARCHAR'
-      TYPE_CAST_MYSQL     = 'CHAR'
+      TYPE_CAST_MYSQL     = 'VARCHAR'
       TYPE_CAST_SQLITE    = 'TEXT'
       TYPE_CAST_ORACLE    = 'VARCHAR2(4000)'
       TYPE_CAST_SQLSERVER = 'VARCHAR(4000)'
